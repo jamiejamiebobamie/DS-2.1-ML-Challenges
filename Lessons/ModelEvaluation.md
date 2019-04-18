@@ -1,4 +1,4 @@
-# Model Evaluation
+# Model Evaluation [Slides](./slides/DS_2.1_model_evaluation.key)
 
 # Cross Validation (5 min)
 
