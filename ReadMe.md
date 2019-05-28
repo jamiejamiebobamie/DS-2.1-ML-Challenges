@@ -45,28 +45,31 @@ By the end of the course the students will be able to
 |   1   |  Tuesday, April 2    | [Introduction to Machine Learning] |
 |   2   | Thursday, April 4    | [Linear Regression] |
 |   3   |  Tuesday, April 9  | [Support Vector Machine] |
-|   4   | Thursday, April 11  | [Model Evaluation] |
-|   5   |  Tuesday, April 16 | [Principal Component Analysis] |
-|   6   | Thursday, April 18 | [Decision Tree] |
-|   7   |  Tuesday, April 23 | [Clustering] |
-|   8   | Thursday, April 25 | [Naive Bayes] |
-|  9   |  Tuesday, April 30    | [Ensemble Methods] |
-|  10   | Thursday, May 2    | [Feature Selection] |
-|  11     |  Tuesday, May 7    | [SMOTE] |
-|  12   | Thursday, May 9   | [Pipeline] |
-|  13   | Tuesday, May 14   | [Project Presentation] |
-|  14   | Thursday, May 16   | Final Exams |
+|   4   | Thursday, April 11  | [Logistic Regression] |
+|   5   |  Tuesday, April 16 | [Model Evaluation] |
+|   6   | Thursday, April 18 | [Principal Component Analysis] |
+|   7   |  Tuesday, April 23 | [Decision Tree] |
+|   8   | Thursday, April 25 | [Clustering] |
+|  9   |  Tuesday, April 30    | [Review Session] |
+|  10   | Thursday, May 2    | [Naive Bayes] |
+|  11     |  Tuesday, May 7    | [TFIDF and its Application] |
+|  12   | Thursday, May 9   | [Ensemble Methods] |
+|  13   | Tuesday, May 14   | Final Exam |
+|  14   | Thursday, May 16   | Project Presentation |
 
 [Introduction to Machine Learning]: Lessons/IntroductiontoMachineLearning.md
 [Linear Regression]: Lessons/LinearRegression.md
 [Support Vector Machine]: Lessons/SupportVectorMachine.md
+[Logistic Regression]: Notebooks/simple_Model_Evaluation.ipynb
 [Model Evaluation]: Lessons/ModelEvaluation.md
 [Principal Component Analysis]: Lessons/PrincipalComponentAnalysis.md
 [Ensemble Methods]:Lessons/EnsembleMethods.md
 [Decision Tree]: Lessons/DecisionTree.md
 [Clustering]: Lessons/Clustering.md
+[Review Session]: Lessons/Review.md
 [Naive Bayes]: Lessons/NaiveBayes.md
-
+[TFIDF and its Application]: Lessons/TFIDF.md
+[Ensemble Methods]: Lessons/EnsembleMethods.md
 ## Class Assignments
 - Apply Linear Regression for Boston Housing Dataset
 - Apply SVM for Breast Cancer Dataset
@@ -83,7 +86,12 @@ By the end of the course the students will be able to
 
 - **Good Example:** 40+ commits throughout the length of the course, looking for a healthy spattering of commits each week (such as 3-5 per day).
 - **Bad Example:** 10 commits on one day during the course and no others. Students who do this will be at severe risk of not passing the class.
-- **Unacceptable Example:** 2 commits the day before a project is due. Students who do this should not expect to pass the class. 
+- **Unacceptable Example:** 2 commits the day before a project is due. Students who do this should not expect to pass the class.
+
+- The [Final Project Guideline for DS 2.1](https://docs.google.com/document/d/1Oc7kbLBC_JRURMLmNREqriWr2Xrywzyh7_P7BzHXtWk/edit)
+
+- The [Rubric for Final Project](https://docs.google.com/document/d/15XaC_QRp7v7GuhIYUe54XdQSGnmcVOjrQgFmVISB4pA/edit)
+
 
 #### Why are we doing this?
 
@@ -101,6 +109,8 @@ Through this requirement, we hope to encourage you to think about projects with 
 - You will have 2 hours to complete this exam - it will be in class using paper and pencil, or a format of the instructor's choosing
 - There are no retakes of the exam.
 - If you have a disability that needs an accommodation such as extended time or a different format, please take advantage of our [accommodations program](make.sc/disability-policy).
+
+- [Study Guide](https://docs.google.com/document/d/19uRmjtBVdyBdm--35uXiU3EKgh24JxPvHLXLOvmEeB8/edit#)
 
 ## Evaluation
 
